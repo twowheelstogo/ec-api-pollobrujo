@@ -87,7 +87,7 @@
     "@reactioncommerce/api-plugin-pricing-simple": "^1.0.3",
     "@reactioncommerce/api-plugin-products": "^1.0.2",
     "@reactioncommerce/api-plugin-settings": "^1.0.2",
-    "@reactioncommerce/api-plugin-shipments": "^1.0.1",
+    "@reactioncommerce/api-plugin-shipments": "github:twowheelstogo/api-plugin-shipments#development",
     "@reactioncommerce/api-plugin-shipments-flat-rate": "^1.0.4",
     "@reactioncommerce/api-plugin-shops": "^1.2.1",
     "@reactioncommerce/api-plugin-simple-schema": "^1.0.1",
@@ -108,7 +108,8 @@
     "graphql": "~14.7.0",
     "semver": "~6.3.0",
     "sharp": "^0.28.3",
-    "api-plugin-payments-epay": "github:djorellanabmrb/api-plugin-epay-pollobrujo#master"
+    "api-plugin-payments-epay": "github:djorellanabmrb/api-plugin-epay-pollobrujo#master",
+    "api-plugin-pickup-extension": "github:twowheelstogo/api-plugin-pickup-extension#development"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
