@@ -105,11 +105,11 @@
     "@reactioncommerce/logger": "^1.1.3",
     "@reactioncommerce/random": "^1.0.2",
     "@snyk/protect": "latest",
+    "api-plugin-payments-epay": "github:djorellanabmrb/api-plugin-epay-pollobrujo#master",
+    "api-plugin-pickup-extension": "github:twowheelstogo/api-plugin-pickup-extension#development",
     "graphql": "~14.7.0",
     "semver": "~6.3.0",
-    "sharp": "^0.28.3",
-    "api-plugin-payments-epay": "github:djorellanabmrb/api-plugin-epay-pollobrujo#master",
-    "api-plugin-pickup-extension": "github:twowheelstogo/api-plugin-pickup-extension#development"
+    "sharp": "^0.28.3"
   },
   "devDependencies": {
     "@babel/core": "^7.7.7",
