@@ -37,5 +37,6 @@
   "notifications": "@reactioncommerce/api-plugin-notifications",
   "addressValidationTest": "@reactioncommerce/api-plugin-address-validation-test",
   "paymentsEpay": "api-plugin-payments-epay",
-  "pickupExtension": "api-plugin-pickup-extension"
+  "pickupExtension": "api-plugin-pickup-extension",
+  "modifierGroup": "@twowheelstogo/api-plugin-modifier-groups"
 }

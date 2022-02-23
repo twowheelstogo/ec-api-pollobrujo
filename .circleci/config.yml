@@ -6,9 +6,9 @@ version: 2
 defaults: &defaults
   environment:
     CI_SCRIPTS: "npx --quiet --package @reactioncommerce/ci-scripts@1.6.2"
-    DOCKER_REPOSITORY: "luiscelano/pb-api"
-    DOCKER_NAMESPACE: "luiscelano"
-    DOCKER_NAME: "luiscelano"
+    DOCKER_REPOSITORY: "loginsolutions/pb-api"
+    DOCKER_NAMESPACE: "loginsolutions"
+    DOCKER_NAME: "loginsolutions"
   docker:
     - image: circleci/node:14.11.0-stretch
 
