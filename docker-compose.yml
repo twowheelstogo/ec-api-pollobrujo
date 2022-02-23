@@ -13,7 +13,7 @@ networks:
 
 services:
   api:
-    image: luiscelano/pb-api:development
+    image: loginsolutions/pb-api:development
     build:
       context: .
     depends_on:
